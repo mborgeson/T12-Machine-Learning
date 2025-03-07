@@ -1,0 +1,34 @@
+Template: template_1_Generic Training Batch #3
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 19
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 0 (1133 West Fifth)
+  Account Name: Column 1 (Unnamed: 1)
+
+Files in Template:
+----------------
+1. 1133 West Fifth - T12 (10.2023-09.2024).xlsx (100.0%)
+2. 454 West Brown - T12 Financials (9.30.2024).xlsx (90.0%)
+3. Arcadia on 49th Operating Statement --- 2019.xlsx (90.0%)
+4. Arcadia on 49th Operating Statement --- 2020.xlsx (90.0%)
+5. Arcadia on 49th Operating Statement --- T12 (Apr2021).xlsx (90.0%)
+6. Arcadia on 49th Operating Statement --- T12 (Mar2021).xlsx (90.0%)
+7. Artisan at DT Chandler Operating Statement --- Jan2024 - May2024.xlsx (90.0%)
+8. Artisan at DT Chandler Operating Statement --- T120 (Apr2024).xlsx (90.0%)
+9. Artisan at DT Chandler Operating Statement --- T90 (Mar2024).xlsx (90.0%)
+10. Fairways on Thunderbird OPS 01.2022 T12.xlsx (90.0%)
+11. Fairways on Thunderbird OPS 12.2020 T12.xlsx (90.0%)
+12. Newport Operating Statement --- 2019.xlsx (90.0%)
+13. Newport Operating Statement --- 2020.xlsx (90.0%)
+14. Newport Operating Statement --- T12 (Mar2021).xlsx (90.0%)
+15. The District at Fiesta Park Operating Statement --- 2019.xlsx (90.0%)
+16. The District at Fiesta Park Operating Statement --- 2020.xlsx (90.0%)
+17. The District at Fiesta Park Operating Statement --- T12 (Apr2021).xlsx (90.0%)
+18. The District at Fiesta Park Operating Statement --- T12 (Mar2021).xlsx (90.0%)
+19. The Hadley Operating Statement --- 2023.xlsx (90.0%)

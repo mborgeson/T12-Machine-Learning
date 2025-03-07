@@ -1,0 +1,133 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 11,
+      "files": [
+        "04 Phase2 IS T-12 08.2020 - 07.2021.xlsx",
+        "Montana T-12 November 2018.xlsx",
+        "Rise DM T12 12.9.2021.xlsx",
+        "Rise Downtown Mesa T12- December 2021.xlsx",
+        "Rise on Peoria November 2021 T12 Statement.xlsx",
+        "T12 U148 July 2023.xlsx",
+        "U148 T12 June 2023.xlsx",
+        "income_statement_12_month-20211005 (2).xlsx",
+        "income_statement_12_month-20220906.xlsx",
+        "income_statement_12_month-20230727.xlsx",
+        "Soleil Operating Statement --- T12 (Feb2023).xlsx"
+      ],
+      "structure": {
+        "account_number_col": null,
+        "account_name_col": 0,
+        "account_number_header": null,
+        "account_name_header": null,
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "04 Phase2 IS T-12 08.2020 - 07.2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "Montana T-12 November 2018.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 13,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 89.33333333333334
+    },
+    "Rise DM T12 12.9.2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 13,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 89.33333333333334
+    },
+    "Rise Downtown Mesa T12- December 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 4,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 86.33333333333334
+    },
+    "Rise on Peoria November 2021 T12 Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 13,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 89.33333333333334
+    },
+    "Soleil Operating Statement --- T12 (Feb2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "T12 U148 July 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 9,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 88.0
+    },
+    "U148 T12 June 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 8,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 87.66666666666666
+    },
+    "income_statement_12_month-20211005 (2).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 11,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 88.66666666666666
+    },
+    "income_statement_12_month-20220906.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 13,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 89.33333333333334
+    },
+    "income_statement_12_month-20230727.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    }
+  }
+}

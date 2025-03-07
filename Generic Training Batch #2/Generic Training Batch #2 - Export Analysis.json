@@ -1,0 +1,153 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 13,
+      "files": [
+        "Argenta_T12_02-2024.xlsx",
+        "Argenta_T12_12-2021.xlsx",
+        "Argenta_T12_12-2022.xlsx",
+        "Argenta_T12_12-2023.xlsx",
+        "Bingham Blocks T12 (07.23).xlsx",
+        "Desert Shadows - T12 December 2020.xlsx",
+        "HSM_-_Dec_2020_to_Sept_2021_T10_Operating_Statement.xlsx",
+        "R. Income Statement - Bingham Blocks.xlsx",
+        "Sunrise on the Rail - 2023 12.December T12.xlsx",
+        "Sunrise on the Rail - August 2023 T12.xlsx",
+        "T12 Income Statement_Casitas_Aug 2021.xlsx",
+        "The 89 on Hayden Operating Statement --- T12 (May2024).xlsx",
+        "Gateway at Tempe OPS 12.2021 T-12.xlsx"
+      ],
+      "structure": {
+        "account_number_col": 0,
+        "account_name_col": 1,
+        "account_number_header": "Unnamed: 0",
+        "account_name_header": "Unnamed: 1",
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "Argenta_T12_02-2024.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "Argenta_T12_12-2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Argenta_T12_12-2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Argenta_T12_12-2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Bingham Blocks T12 (07.23).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Desert Shadows - T12 December 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Gateway at Tempe OPS 12.2021 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 35,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "HSM_-_Dec_2020_to_Sept_2021_T10_Operating_Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "R. Income Statement - Bingham Blocks.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Sunrise on the Rail - 2023 12.December T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Sunrise on the Rail - August 2023 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "T12 Income Statement_Casitas_Aug 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The 89 on Hayden Operating Statement --- T12 (May2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 33,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    }
+  }
+}

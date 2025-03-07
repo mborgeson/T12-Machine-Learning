@@ -1,0 +1,21 @@
+Template: template_1_Generic Training Batch #1
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 6
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 0 (Dobson 2222)
+  Account Name: Column 1 (Unnamed: 1)
+
+Files in Template:
+----------------
+1. D2222_-_2020_T12_Operating_Statement.xlsx (100.0%)
+2. D2222_-_2021_T12_Operating_Statement.xlsx (90.0%)
+3. D2222_-_March_2022_T12_Operating_Statement.xlsx (90.0%)
+4. Ocotillo Bay OPS 04.2022 T-12.xlsx (90.0%)
+5. Ocotillo Bay OPS 12.2023 T-12.xlsx (90.0%)
+6. Ocotillo Bay OPS 12.2024 T-12.xlsx (90.0%)

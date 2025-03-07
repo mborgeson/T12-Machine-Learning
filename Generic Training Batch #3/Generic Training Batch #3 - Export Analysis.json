@@ -1,0 +1,213 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 19,
+      "files": [
+        "1133 West Fifth - T12 (10.2023-09.2024).xlsx",
+        "454 West Brown - T12 Financials (9.30.2024).xlsx",
+        "Arcadia on 49th Operating Statement --- 2019.xlsx",
+        "Arcadia on 49th Operating Statement --- 2020.xlsx",
+        "Arcadia on 49th Operating Statement --- T12 (Apr2021).xlsx",
+        "Arcadia on 49th Operating Statement --- T12 (Mar2021).xlsx",
+        "Artisan at DT Chandler Operating Statement --- Jan2024 - May2024.xlsx",
+        "Artisan at DT Chandler Operating Statement --- T120 (Apr2024).xlsx",
+        "Artisan at DT Chandler Operating Statement --- T90 (Mar2024).xlsx",
+        "Fairways on Thunderbird OPS 01.2022 T12.xlsx",
+        "Fairways on Thunderbird OPS 12.2020 T12.xlsx",
+        "Newport Operating Statement --- 2019.xlsx",
+        "Newport Operating Statement --- 2020.xlsx",
+        "Newport Operating Statement --- T12 (Mar2021).xlsx",
+        "The District at Fiesta Park Operating Statement --- 2019.xlsx",
+        "The District at Fiesta Park Operating Statement --- 2020.xlsx",
+        "The District at Fiesta Park Operating Statement --- T12 (Apr2021).xlsx",
+        "The District at Fiesta Park Operating Statement --- T12 (Mar2021).xlsx",
+        "The Hadley Operating Statement --- 2023.xlsx"
+      ],
+      "structure": {
+        "account_number_col": 0,
+        "account_name_col": 1,
+        "account_number_header": "1133 West Fifth",
+        "account_name_header": "Unnamed: 1",
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "1133 West Fifth - T12 (10.2023-09.2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "454 West Brown - T12 Financials (9.30.2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Arcadia on 49th Operating Statement --- 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Arcadia on 49th Operating Statement --- 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Arcadia on 49th Operating Statement --- T12 (Apr2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Arcadia on 49th Operating Statement --- T12 (Mar2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Artisan at DT Chandler Operating Statement --- Jan2024 - May2024.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Artisan at DT Chandler Operating Statement --- T120 (Apr2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Artisan at DT Chandler Operating Statement --- T90 (Mar2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Fairways on Thunderbird OPS 01.2022 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Fairways on Thunderbird OPS 12.2020 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Newport Operating Statement --- 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Newport Operating Statement --- 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Newport Operating Statement --- T12 (Mar2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The District at Fiesta Park Operating Statement --- 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The District at Fiesta Park Operating Statement --- 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The District at Fiesta Park Operating Statement --- T12 (Apr2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The District at Fiesta Park Operating Statement --- T12 (Mar2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Hadley Operating Statement --- 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 29,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    }
+  }
+}

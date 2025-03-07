@@ -1,0 +1,113 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 9,
+      "files": [
+        "Jerome Operating Statement --- T12 (Mar2022).xlsx",
+        "Palmer OPS 08.2024 T12.xlsx",
+        "Palmer OPS 12.2021 T12.xlsx",
+        "Palmer OPS 12.2022 T12.xlsx",
+        "Palmer OPS 12.2023 T12.xlsx",
+        "Senara OPS 08.2024 T12.xlsx",
+        "Senara OPS 12.2021 T12.xlsx",
+        "Senara OPS 12.2022 T12.xlsx",
+        "Senara OPS 12.2023 T12.xlsx"
+      ],
+      "structure": {
+        "account_number_col": null,
+        "account_name_col": 0,
+        "account_number_header": null,
+        "account_name_header": null,
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "Jerome Operating Statement --- T12 (Mar2022).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "Palmer OPS 08.2024 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Palmer OPS 12.2021 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Palmer OPS 12.2022 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Palmer OPS 12.2023 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Senara OPS 08.2024 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Senara OPS 12.2021 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Senara OPS 12.2022 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Senara OPS 12.2023 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 19,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    }
+  }
+}

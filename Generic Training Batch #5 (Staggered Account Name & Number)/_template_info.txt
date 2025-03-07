@@ -1,0 +1,26 @@
+Template: template_1_Generic Training Batch #5 (Staggered Account Name & Number)
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 11
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Not found
+  Account Name: Column 0 (No header)
+
+Files in Template:
+----------------
+1. CBF T12 04.21.xlsx (100.0%)
+2. CBF T12 05.21.xlsx (90.0%)
+3. Jerome Operating Statement --- T12 (Mar2022).xlsx (82.8%)
+4. Palmer OPS 08.2024 T12.xlsx (82.8%)
+5. Palmer OPS 12.2021 T12.xlsx (82.8%)
+6. Palmer OPS 12.2022 T12.xlsx (82.8%)
+7. Palmer OPS 12.2023 T12.xlsx (82.8%)
+8. Senara OPS 08.2024 T12.xlsx (82.8%)
+9. Senara OPS 12.2021 T12.xlsx (82.8%)
+10. Senara OPS 12.2022 T12.xlsx (82.8%)
+11. Senara OPS 12.2023 T12.xlsx (82.8%)

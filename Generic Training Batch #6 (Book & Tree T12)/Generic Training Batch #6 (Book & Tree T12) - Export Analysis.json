@@ -1,0 +1,1133 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 111,
+      "files": [
+        "02.2022 - T-12 - Scottsdale.xlsx",
+        "02.22 T-12.xlsx",
+        "03 Phase1 IS T-12 08.2020 - 07.2021.xlsx",
+        "03.2022 - T-12 - Scottsdale.xlsx",
+        "04.2022 - T-12 - Scottsdale (1).xlsx",
+        "05.2022 - T-12 - Scottsdale.xlsx",
+        "06 2018 Studio 710 T12.xlsx",
+        "06_2022 12 Month Income Statement.xlsx",
+        "07 2018 Studio 710 T12.xlsx",
+        "07 2018 Verona Park T12.xlsx",
+        "08 2018 Studio 710 T12.xlsx",
+        "08.2022 - Scottsdale - T-12(1).xlsx",
+        "08.2022 - Scottsdale - T-12.xlsx",
+        "11 2021 Brio on Ray T12.xlsx",
+        "12 Month Income Statement.xlsx",
+        "16Penn_T12_December 2020.xlsx",
+        "2018-06-30 Palms at Glendale T12.xlsx",
+        "23_0508 - Glendale T-12.xlsx",
+        "23_0508 - Mountain Vista T-12.xlsx",
+        "44 Monroe T-12 9 2021.xlsx",
+        "44 Monroe T-12.xlsx",
+        "544 Southern Operating Statement --- T12 (Feb2021).xlsx",
+        "949 at the District Operating Statement --- T12 (May2019).xlsx",
+        "Alta Cooley Station Operating Statement --- T12 (Jul2023).xlsx",
+        "Alta Cooley Station Operating Statement --- T12 (Jun2023).xlsx",
+        "Alta Raintree T12 11.22.xlsx",
+        "Arcadia Walk T-12 January 2021.xlsx",
+        "Arise Litchfield Park T12 P&L Jan 2022.xlsx",
+        "Armory Park - T12 July 2020.xlsx",
+        "Ascent at Papago OPS 09.2021 T-12.xlsx",
+        "Aura Central_T-12_9.2023.xlsx",
+        "Aura at Midtown October 2023 T12.xlsx",
+        "Avenel T12 November 2019.xlsx",
+        "Avery on the Green 12_Month_Statement_a50_Accrual - 07_08_2021 (T-12).xlsx",
+        "Avilla Lago T12 Jun 2022.xlsx",
+        "Be Mesa Operating Statement --- T12 (Aug2023).xlsx",
+        "Bolero OPS 12.2021 T-12.xlsx",
+        "Broadstone Dobson Ranch Operating Statement --- T12 (Jul2023).xlsx",
+        "C15 - T12 - June 2019 - May 2020.xlsx",
+        "CBS-T12 04.2021-03.2022.xlsx",
+        "Cabana Encanto Operating Statement --- T12 (Aug2022).xlsx",
+        "Cabana Encanto Operating Statement --- T12 (Jul2022).xlsx",
+        "Cabana Power Operating Statement --- T12 (Feb2022).xlsx",
+        "Cabana Power Operating Statement --- T12 (Jan2022).xlsx",
+        "Carmel Creek_May 2021 T-12 OpStmt.xlsx",
+        "Copper Point T12 0723 to 0624.xlsx",
+        "Copper Point T12 0923 to 0824.xlsx",
+        "Country Gables Operating Statement --- T12 (Feb2023).xlsx",
+        "Country Park Villas T12 P&L Dec 2018.xlsx",
+        "Country Park Villas T12 P&L Jan 2019.xlsx",
+        "Decco 109 T12 thru May 2018.xlsx",
+        "Del Sol Operating Statement --- 2018.xlsx",
+        "Desert Club Operating Statement --- T12 (May2024).xlsx",
+        "Edgewater Operating Statement --- T12 (Jun2021).xlsx",
+        "Elevation - T12.xlsx",
+        "Encore 202 & 59 Roosevelt - Dec 2021 T12 - Combined.xlsx",
+        "Encore 202 & 59 Roosevelt T12 P&L Jan 2022.xlsx",
+        "Galleria Palms OPS 04.2024 T12.xlsx",
+        "Glen 91 Operating Statement --- T12 (Dec2023).xlsx",
+        "Glen 91 Operating Statement --- T12 (Jan2024).xlsx",
+        "Glen 91 Operating Statement --- T12 (Nov2023).xlsx",
+        "Hadley T12 July 2021.xlsx",
+        "Herbert - T12 July 2020.xlsx",
+        "Lago_T12.xlsx",
+        "Main Street Lofts - Income Statement - 02.2017.xlsx",
+        "Marble Creek Operating Statement --- T12 (Jun2021).xlsx",
+        "Mountainside Operating Statement --- 2021.xlsx",
+        "Mountainside Operating Statement --- T12 (Nov2021).xlsx",
+        "Nightingale - T12 March 2022.xlsx",
+        "Omnia on 8th T12 v.2.xlsx",
+        "Plaza 550 - T12 April 2019.xlsx",
+        "Plaza 550 - T12 March 2019.xlsx",
+        "Plaza 550 February 2019 T12.xlsx",
+        "Plaza 550 July 2019 T12.xlsx",
+        "Point at Cypress Woods_APR T-12 OpStmt.xlsx",
+        "Revival on IS T-12 March 2019.xlsx",
+        "Rise on McDowell T12 P&L May 2021.xlsx",
+        "Sandal Ridge Operating Statement --- T12 (Feb2021).xlsx",
+        "Serafina T12_Mar 2021-Feb 2022.xlsx",
+        "Skywater OPS 12.2021 T-12.xlsx",
+        "Solstice T-12 July 2018.xlsx",
+        "Solstice T-12 June 2018.xlsx",
+        "Soltra OPS 12.2021 T-12.xlsx",
+        "Studio - Prelim September Income.xlsx",
+        "T-12 Statement Feb 2021.xlsx",
+        "T12 2023.xlsx",
+        "T12 Mar 2020 (Final).xlsx",
+        "T12 U148_ September 2023.xlsx",
+        "TR - T12 - 122023.xlsx",
+        "TR T-12 October 2023.xlsx",
+        "TR T12 August 2023.xlsx",
+        "TR T12 July 2023.xlsx",
+        "TR T12 P&L 06-22.xlsx",
+        "The Livano DV Operating Statement --- T12 (Jan2024).xlsx",
+        "The Preserve 01.2021 Income Statement.xlsx",
+        "The Preserve_2019 Income Statement.xlsx",
+        "The Preserve_2020 Income Statement.xlsx",
+        "The Ventura OPS 12.2018 T-12.xlsx",
+        "The Ventura OPS 12.2019 T-12.xlsx",
+        "The Ventura OPS 12.2020 T-12.xlsx",
+        "The Ventura OPS 12.2021 T-12.xlsx",
+        "Tides on 44th - Income Statement - 1.31.2024.xlsx",
+        "Tides on 44th - Income Statement - 12.31.23.xlsx",
+        "Trovita Rio T-12 November 2023.xlsx",
+        "Trovita T-12 September 2023.xlsx",
+        "U188 - T12 June 2021.xlsx",
+        "U96 - T12 June 2021.xlsx",
+        "Villa Serena Operating Statement --- T12 (May2021).xlsx",
+        "Villas de Azul Feb 2024 T12.xlsx",
+        "Villetta Operating Statement --- T12 (Apr2024).xlsx",
+        "Villetta Operating Statement --- T12 (Mar2024).xlsx"
+      ],
+      "structure": {
+        "account_number_col": 0,
+        "account_name_col": 1,
+        "account_number_header": "Alexan Scottsdale (res59691)",
+        "account_name_header": "Unnamed: 1",
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "02.2022 - T-12 - Scottsdale.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "02.22 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "03 Phase1 IS T-12 08.2020 - 07.2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "03.2022 - T-12 - Scottsdale.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "04.2022 - T-12 - Scottsdale (1).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "05.2022 - T-12 - Scottsdale.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "06 2018 Studio 710 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "06_2022 12 Month Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "07 2018 Studio 710 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "07 2018 Verona Park T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "08 2018 Studio 710 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "08.2022 - Scottsdale - T-12(1).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "08.2022 - Scottsdale - T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "11 2021 Brio on Ray T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "12 Month Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "16Penn_T12_December 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "2018-06-30 Palms at Glendale T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "23_0508 - Glendale T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "23_0508 - Mountain Vista T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "44 Monroe T-12 9 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "44 Monroe T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "544 Southern Operating Statement --- T12 (Feb2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "949 at the District Operating Statement --- T12 (May2019).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Alta Cooley Station Operating Statement --- T12 (Jul2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Alta Cooley Station Operating Statement --- T12 (Jun2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Alta Raintree T12 11.22.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Arcadia Walk T-12 January 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Arise Litchfield Park T12 P&L Jan 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Armory Park - T12 July 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Ascent at Papago OPS 09.2021 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Aura Central_T-12_9.2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Aura at Midtown October 2023 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Avenel T12 November 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Avery on the Green 12_Month_Statement_a50_Accrual - 07_08_2021 (T-12).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Avilla Lago T12 Jun 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Be Mesa Operating Statement --- T12 (Aug2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Bolero OPS 12.2021 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Broadstone Dobson Ranch Operating Statement --- T12 (Jul2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "C15 - T12 - June 2019 - May 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "CBS-T12 04.2021-03.2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Cabana Encanto Operating Statement --- T12 (Aug2022).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Cabana Encanto Operating Statement --- T12 (Jul2022).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Cabana Power Operating Statement --- T12 (Feb2022).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Cabana Power Operating Statement --- T12 (Jan2022).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Carmel Creek_May 2021 T-12 OpStmt.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Copper Point T12 0723 to 0624.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Copper Point T12 0923 to 0824.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Country Gables Operating Statement --- T12 (Feb2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Country Park Villas T12 P&L Dec 2018.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Country Park Villas T12 P&L Jan 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Decco 109 T12 thru May 2018.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Del Sol Operating Statement --- 2018.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Desert Club Operating Statement --- T12 (May2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Edgewater Operating Statement --- T12 (Jun2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Elevation - T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Encore 202 & 59 Roosevelt - Dec 2021 T12 - Combined.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Encore 202 & 59 Roosevelt T12 P&L Jan 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Galleria Palms OPS 04.2024 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Glen 91 Operating Statement --- T12 (Dec2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Glen 91 Operating Statement --- T12 (Jan2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Glen 91 Operating Statement --- T12 (Nov2023).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Hadley T12 July 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Herbert - T12 July 2020.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Lago_T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Main Street Lofts - Income Statement - 02.2017.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Marble Creek Operating Statement --- T12 (Jun2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Mountainside Operating Statement --- 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Mountainside Operating Statement --- T12 (Nov2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Nightingale - T12 March 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Omnia on 8th T12 v.2.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Plaza 550 - T12 April 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Plaza 550 - T12 March 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Plaza 550 February 2019 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Plaza 550 July 2019 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Point at Cypress Woods_APR T-12 OpStmt.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Revival on IS T-12 March 2019.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Rise on McDowell T12 P&L May 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Sandal Ridge Operating Statement --- T12 (Feb2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Serafina T12_Mar 2021-Feb 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Skywater OPS 12.2021 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Solstice T-12 July 2018.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Solstice T-12 June 2018.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Soltra OPS 12.2021 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Studio - Prelim September Income.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "T-12 Statement Feb 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "T12 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "T12 Mar 2020 (Final).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "T12 U148_ September 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "TR - T12 - 122023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "TR T-12 October 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "TR T12 August 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "TR T12 July 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "TR T12 P&L 06-22.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Livano DV Operating Statement --- T12 (Jan2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Preserve 01.2021 Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Preserve_2019 Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Preserve_2020 Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Ventura OPS 12.2018 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Ventura OPS 12.2019 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Ventura OPS 12.2020 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "The Ventura OPS 12.2021 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Tides on 44th - Income Statement - 1.31.2024.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Tides on 44th - Income Statement - 12.31.23.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Trovita Rio T-12 November 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Trovita T-12 September 2023.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "U188 - T12 June 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "U96 - T12 June 2021.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Villa Serena Operating Statement --- T12 (May2021).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Villas de Azul Feb 2024 T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Villetta Operating Statement --- T12 (Apr2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Villetta Operating Statement --- T12 (Mar2024).xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 15,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    }
+  }
+}

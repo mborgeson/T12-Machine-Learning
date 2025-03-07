@@ -1,0 +1,83 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 6,
+      "files": [
+        "D2222_-_2020_T12_Operating_Statement.xlsx",
+        "D2222_-_2021_T12_Operating_Statement.xlsx",
+        "D2222_-_March_2022_T12_Operating_Statement.xlsx",
+        "Ocotillo Bay OPS 04.2022 T-12.xlsx",
+        "Ocotillo Bay OPS 12.2023 T-12.xlsx",
+        "Ocotillo Bay OPS 12.2024 T-12.xlsx"
+      ],
+      "structure": {
+        "account_number_col": 0,
+        "account_name_col": 1,
+        "account_number_header": "Dobson 2222",
+        "account_name_header": "Unnamed: 1",
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "D2222_-_2020_T12_Operating_Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 28,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "D2222_-_2021_T12_Operating_Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 28,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "D2222_-_March_2022_T12_Operating_Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 28,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Ocotillo Bay OPS 04.2022 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 28,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Ocotillo Bay OPS 12.2023 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 28,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    },
+    "Ocotillo Bay OPS 12.2024 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 28,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 90.0
+    }
+  }
+}

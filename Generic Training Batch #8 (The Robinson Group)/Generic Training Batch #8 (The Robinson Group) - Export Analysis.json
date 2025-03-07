@@ -1,0 +1,113 @@
+{
+  "templates": {
+    "template_1": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "account_pattern": "Unknown",
+      "file_count": 9,
+      "files": [
+        "44th March 2022 Income Statement.xlsx",
+        "Tides at Palm Valley April 2022 T-12.xlsx",
+        "Tides on 44th - T12- April 2022.xlsx",
+        "Tides on 44th Ave Income Statement May 2022.xlsx",
+        "Tides on 44th Income Statement - Dec 2022.xlsx",
+        "Tides on 44th July T12.xlsx",
+        "Tides on 44th November 2022 Income Statement.xlsx",
+        "Tides on 44th October T12.xlsx",
+        "Tides on 44th T12.xlsx"
+      ],
+      "structure": {
+        "account_number_col": null,
+        "account_name_col": 0,
+        "account_number_header": null,
+        "account_name_header": null,
+        "column_types": {},
+        "date_columns": []
+      }
+    }
+  },
+  "files": {
+    "44th March 2022 Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 4,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 100.0
+    },
+    "Tides at Palm Valley April 2022 T-12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 12,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 86.66666666666666
+    },
+    "Tides on 44th - T12- April 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 5,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 89.0
+    },
+    "Tides on 44th Ave Income Statement May 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 6,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 88.33333333333334
+    },
+    "Tides on 44th Income Statement - Dec 2022.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 13,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 86.53846153846155
+    },
+    "Tides on 44th July T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 8,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 87.5
+    },
+    "Tides on 44th November 2022 Income Statement.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 12,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 86.66666666666666
+    },
+    "Tides on 44th October T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 11,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 86.81818181818181
+    },
+    "Tides on 44th T12.xlsx": {
+      "software": "Unknown",
+      "date_format": "Unknown",
+      "header_row": "Unknown",
+      "column_count": 7,
+      "account_pattern": "Unknown",
+      "template_id": "template_1",
+      "similarity_score": 87.85714285714286
+    }
+  }
+}
