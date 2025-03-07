@@ -1,0 +1,16 @@
+Template: template_94
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 3 (Unnamed: 3)
+  Account Name: Column 2 (Unnamed: 2)
+
+Files in Template:
+----------------
+1. The Willow T-12.xlsx (100.0%)

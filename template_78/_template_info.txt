@@ -1,0 +1,16 @@
+Template: template_78
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 5 (Unnamed: 5)
+  Account Name: Column 2 (S&T Apartments)
+
+Files in Template:
+----------------
+1. ST Plaza - Statement of Income - Q1  Q2.xlsx (100.0%)

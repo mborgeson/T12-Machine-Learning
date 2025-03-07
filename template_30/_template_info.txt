@@ -1,0 +1,16 @@
+Template: template_30
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 2 (Unnamed: 2)
+  Account Name: Column 3 (Unnamed: 3)
+
+Files in Template:
+----------------
+1. Brio on Ray - T12 (2020 & 2021).xlsx (100.0%)

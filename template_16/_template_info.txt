@@ -1,0 +1,19 @@
+Template: template_16
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 4
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 0 (Tides on 44th (52533))
+  Account Name: Column 1 (Unnamed: 1)
+
+Files in Template:
+----------------
+1. 44th - T12 - March 2024.xlsx (100.0%)
+2. Copper Palms OPS 08.2021 T-12.xlsx (90.0%)
+3. Encantada Riverside Crossing - T12 March 2021.xlsx (100.0%)
+4. La Quinta - T12 March 2019.xlsx (100.0%)

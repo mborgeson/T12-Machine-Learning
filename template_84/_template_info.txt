@@ -1,0 +1,11 @@
+Template: template_84
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+
+Files in Template:
+----------------
+1. Sunnyvale April T12-2021-05-17 .xlsx (100.0%)

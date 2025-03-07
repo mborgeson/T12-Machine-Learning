@@ -1,0 +1,17 @@
+Template: template_44
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 2
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 0 (Unnamed: 0)
+  Account Name: Column 1 (Unnamed: 1)
+
+Files in Template:
+----------------
+1. Desert Shadows - T12 May 2021.xlsx (100.0%)
+2. HSM_-_Dec_2020_to_Aug_2021_T10_Operating_Statement.xlsx (90.0%)

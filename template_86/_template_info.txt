@@ -1,0 +1,11 @@
+Template: template_86
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+
+Files in Template:
+----------------
+1. T12 September 2018 - Art.xlsx (100.0%)

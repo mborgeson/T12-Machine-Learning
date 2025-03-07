@@ -1,0 +1,16 @@
+Template: template_43
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Not found
+  Account Name: Column 0 (No header)
+
+Files in Template:
+----------------
+1. Delano Operating Statement --- T12 (May2021).xlsx (100.0%)

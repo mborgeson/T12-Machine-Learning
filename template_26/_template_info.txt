@@ -1,0 +1,16 @@
+Template: template_26
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 0 (Aura Central (ph16035))
+  Account Name: Column 1 (Unnamed: 1)
+
+Files in Template:
+----------------
+1. Aura Central 12_Month_Income 09.22 to 10.2023.xlsx (100.0%)

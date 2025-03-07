@@ -1,0 +1,16 @@
+Template: template_77
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Not found
+  Account Name: Column 0 (No header)
+
+Files in Template:
+----------------
+1. SD_-_Jan-April_2021_Operating_Statement.xlsx (100.0%)

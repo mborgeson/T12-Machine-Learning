@@ -1,0 +1,13 @@
+Template: template_12
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+
+Files in Template:
+----------------
+1. 2020_12_Urban Park_T12.xlsx (100.0%)

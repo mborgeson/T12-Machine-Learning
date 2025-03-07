@@ -1,0 +1,16 @@
+Template: template_95
+Software: Unknown
+Date Format: Unknown
+Header Row: Unknown
+Account Pattern: Unknown
+File Count: 1
+
+Structure Details:
+----------------
+Account Columns:
+  Account Number: Column 0 (Thrive Tempe (105))
+  Account Name: Column 1 (Unnamed: 1)
+
+Files in Template:
+----------------
+1. Thrive Tempe OPS 08.2021 T12.xlsx (100.0%)
